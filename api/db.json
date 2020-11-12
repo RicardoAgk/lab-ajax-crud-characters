@@ -1,0 +1,32 @@
+{
+  "characters": [
+    {
+      "name": "Joni",
+      "occupation": "Jardineiro",
+      "weapon": "Vassoura",
+      "cartoon": "on",
+      "id": 1
+    },
+    {
+      "id": 3,
+      "name": "Sponge Bob",
+      "occupation": "Lives under the sea",
+      "weapon": "Crabby Patty",
+      "cartoon": true
+    },
+    {
+      "name": "Maria",
+      "occupation": "director",
+      "weapon": "none",
+      "cartoon": true,
+      "id": 4
+    },
+    {
+      "name": "Maria",
+      "occupation": "director",
+      "weapon": "none",
+      "cartoon": true,
+      "id": 5
+    }
+  ]
+}
